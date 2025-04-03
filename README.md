@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋,
+I will use this repository to put all my coding projects. Feel free to check them out!
 
 <!--
 **kingcanvas/kingcanvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
