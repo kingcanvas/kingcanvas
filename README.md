@@ -4,7 +4,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com" alt="csharp" width="45" height="45"/>
+  <img src="[https://raw.githubusercontent.com](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)" alt="csharp" width="45" height="45"/>
 </p>
 
 ### Total Commits this month
