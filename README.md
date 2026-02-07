@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  ### I can code in
+  <h3>I can code in</h3>
 </div>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  ### Commits + Streak
+  <h3>Commits + Streak</h3>
 </div>
 
 <div align="center">
