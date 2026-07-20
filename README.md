@@ -1,16 +1,28 @@
-## Hi there 👋
+# Tech Stack
 
-<!--
-**kingcanvas/kingcanvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,python,cs,git,github,idea,vscode" />
+  <img src="https://zed.dev/cdn-cgi/image/width=96,quality=100,format=auto/_next/static/media/logo_wordmark_white_bigger.11rssg-7g1jg..png" height="50" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kingcanvas&theme=midnight-purple&hide_border=true" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingcanvas&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kingcanvas&style=flat-square&color=9b59b6" />
+</p>
