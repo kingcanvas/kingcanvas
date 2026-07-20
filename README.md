@@ -1,7 +1,11 @@
 # Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,python,cs,git,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,python,cs" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
   <img src="https://zed.dev/cdn-cgi/image/width=96,quality=100,format=auto/_next/static/media/logo_wordmark_white_bigger.11rssg-7g1jg..png" height="50" />
 </p>
 
