@@ -11,7 +11,7 @@
 
 ---
 
-## GitHub Stats
+## GitHub Info
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kingcanvas&theme=midnight-purple&hide_border=true" />
