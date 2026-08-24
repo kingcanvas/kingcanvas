@@ -18,7 +18,7 @@
 
 ---
 
-## GitHub Info
+## GitHub Stats
 
 <p align="center">
   <img
